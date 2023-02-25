@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![snake gif](https://github.com/Andron1215/Andron1215/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Andron1215/Andron1215/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Andron1215/Andron1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
