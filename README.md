@@ -12,7 +12,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andron1215&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andron1215&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ![snake gif](https://github.com/Andron1215/Andron1215/blob/output/github-contribution-grid-snake.svg)
 
 <!--
