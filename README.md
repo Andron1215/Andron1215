@@ -1,16 +1,8 @@
-<h1 align="left">Hello!</h1>
+<h2 align="left">Hi! My name is Andrey and I'm a Python Developer, from Russia.</h2>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">My name is Andrey and I'm a Python Developer, from Russia</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -18,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python logo"  />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="django logo"  />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="sqlite logo"  />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="microsoftsqlserver logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="postgresql logo"  />
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="nginx logo"  />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="docker logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="linux logo"  />
@@ -26,7 +18,7 @@
 
 ###
 
-<h2 align="left">Just a snake that eats contribution graph</h2>
+<h3 align="left">Just a snake that eats contribution graph</h3>
 
 ###
 
